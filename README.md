@@ -21,7 +21,6 @@ This project combines **Generative AI + Agentic AI + Data Engineering** in one e
 
 ### Chat Interface
 <!-- Add your screenshot here -->
-> 📷 *Replace this with your screenshot of the Streamlit UI*
 
 ![Chat UI](sql_agent.png)
 
